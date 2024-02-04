@@ -1,0 +1,2 @@
+# python_alien_invasion
+Python入门书上面的第一个实战项目外星人入侵
